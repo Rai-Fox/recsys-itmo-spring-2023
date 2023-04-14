@@ -20,6 +20,10 @@
 
 Дефолтный запуск по инструкции из модуля sim
 
+# Репозиторий:
+
+https://github.com/Rai-Fox/recsys-itmo-spring-2023
+
 # Результат:
 
 ![alt text](result.png "result")
